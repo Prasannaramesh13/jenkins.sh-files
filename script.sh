@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from Jenkins build!"
+echo "welcome to world of devops!"
